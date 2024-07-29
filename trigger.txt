@@ -1,1 +1,1 @@
-opensearchproject/opensearch-dashboards:latest registry.cn-qingdao.aliyuncs.com/hansboy/opensearch-dashboards:latest
+myscale/myscaledb:1.6 registry.cn-qingdao.aliyuncs.com/hansboy/myscaledb:1.6
