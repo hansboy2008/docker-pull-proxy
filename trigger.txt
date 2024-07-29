@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.cn-qingdao.aliyuncs.com/hansboy/squid:latest
+ghcr.io/chroma-core/chroma:0.5.1 registry.cn-qingdao.aliyuncs.com/hansboy/chroma:0.5.1
