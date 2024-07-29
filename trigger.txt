@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16 registry.cn-qingdao.aliyuncs.com/hansboy/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.2.0 registry.cn-qingdao.aliyuncs.com/hansboy/pgvecto-rs:pg16-v0.2.0
