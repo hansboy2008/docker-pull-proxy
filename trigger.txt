@@ -1,1 +1,1 @@
-container-registry.oracle.com/database/free:latest registry.cn-qingdao.aliyuncs.com/hansboy/free:latest
+quay.io/coreos/etcd:v3.5.5 registry.cn-qingdao.aliyuncs.com/hansboy/etcd:v3.5.5
