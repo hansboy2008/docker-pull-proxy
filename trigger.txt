@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 registry.cn-qingdao.aliyuncs.com/hansboy/weaviate:1.19.0
+langgenius/qdrant:v1.7.3 registry.cn-qingdao.aliyuncs.com/hansboy/qdrant:v1.7.3
