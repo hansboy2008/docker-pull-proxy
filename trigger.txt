@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.3.1 registry.cn-qingdao.aliyuncs.com/hansboy/milvus:v2.3.1
+opensearchproject/opensearch:latest registry.cn-qingdao.aliyuncs.com/hansboy/opensearch:latest
