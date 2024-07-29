@@ -1,1 +1,1 @@
-opensearchproject/opensearch:latest registry.cn-qingdao.aliyuncs.com/hansboy/opensearch:latest
+opensearchproject/opensearch-dashboards:latest registry.cn-qingdao.aliyuncs.com/hansboy/opensearch-dashboards:latest
