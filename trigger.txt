@@ -1,1 +1,1 @@
-nginx:latest registry.cn-qingdao.aliyuncs.com/hansboy/nginx:latest
+semitechnologies/weaviate:1.19.0 registry.cn-qingdao.aliyuncs.com/hansboy/weaviate:1.19.0
