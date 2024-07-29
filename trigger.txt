@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-qingdao.aliyuncs.com/hansboy/redis:6-alpine
+langgenius/dify-sandbox:0.2.1 registry.cn-qingdao.aliyuncs.com/hansboy/langgenius/dify-sandbox:0.2.1
