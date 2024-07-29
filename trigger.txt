@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-qingdao.aliyuncs.com/hansboy/dify-api:0.6.15
+langgenius/dify-web:0.6.15 registry.cn-qingdao.aliyuncs.com/hansboy/dify-web:0.6.15
