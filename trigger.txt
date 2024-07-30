@@ -1,1 +1,1 @@
-myscale/myscaledb:1.6 registry.cn-qingdao.aliyuncs.com/hansboy/myscaledb:1.6
+langgenius/dify-api:0.6.15  registry.cn-qingdao.aliyuncs.com/hansboy/dify-api:0.6.15
