@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.15  registry.cn-qingdao.aliyuncs.com/hansboy/dify-api:0.6.15
+kylemanna/openvpn:latest  registry.cn-qingdao.aliyuncs.com/hansboy/kylemanna/openvpn:latest
