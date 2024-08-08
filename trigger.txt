@@ -1,1 +1,1 @@
-styletang/rocketmq-console-ng registry.cn-qingdao.aliyuncs.com/hansboy/rocketmq-console-ng
+zookeeper:3.5.8 registry.cn-qingdao.aliyuncs.com/hansboy/zookeeper:3.5.8
