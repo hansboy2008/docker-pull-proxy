@@ -1,1 +1,1 @@
-nginx:latest registry.cn-qingdao.aliyuncs.com/hansboy/nginx:latest
+foxiswho/rocketmq:server-4.5.2 registry.cn-qingdao.aliyuncs.com/hansboy/rocketmq:server-4.5.2
