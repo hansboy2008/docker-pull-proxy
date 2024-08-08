@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-qingdao.aliyuncs.com/hansboy/mysql:5.7
+nginx:latest registry.cn-qingdao.aliyuncs.com/hansboy/nginx:latest
