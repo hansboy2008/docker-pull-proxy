@@ -1,1 +1,1 @@
-zookeeper:3.5.8 registry.cn-qingdao.aliyuncs.com/hansboy/zookeeper:3.5.8
+redis:4.0.1 registry.cn-qingdao.aliyuncs.com/hansboy/redis:4.0.1
