@@ -1,1 +1,1 @@
-redis registry.cn-qingdao.aliyuncs.com/hansboy/redis:latest
+elasticsearch:7.10.1 registry.cn-qingdao.aliyuncs.com/hansboy/elasticsearch:7.10.1
