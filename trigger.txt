@@ -1,1 +1,1 @@
-elasticsearch:7.10.2 registry.cn-qingdao.aliyuncs.com/hansboy/elasticsearch:7.10.2
+alpine:3.4 registry.cn-qingdao.aliyuncs.com/hansboy/alpine:3.4
