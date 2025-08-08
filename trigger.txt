@@ -1,1 +1,1 @@
-alpine:3.4 registry.cn-qingdao.aliyuncs.com/hansboy/alpine:3.4
+keepwn/ngrok-webapi:latest registry.cn-qingdao.aliyuncs.com/hansboy/ngrok-webapi:latest
